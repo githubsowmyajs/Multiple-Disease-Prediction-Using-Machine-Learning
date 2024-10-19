@@ -53,15 +53,19 @@ The system also aims to assist healthcare workers in monitoring larger populatio
 # Screenshots
 
 ![image](https://github.com/user-attachments/assets/4fa7df00-e9f4-434b-8179-156598ffd93b)
+
 Diabetes Disease Prediction Page
 
 ![image](https://github.com/user-attachments/assets/bd353e04-2b19-4e55-b92c-9ed44acd4c17)
+
 Heart Disease Prediction Page
 
 ![image](https://github.com/user-attachments/assets/7f5657a0-096d-434d-96b6-436bbacdf6f2)
+
 Parkinson’s Disease Prediction page
 
 ![image](https://github.com/user-attachments/assets/73f10d21-cabc-4f47-989b-afa912d93209)
+
  Code fetched from SpyDER
 
 
