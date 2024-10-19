@@ -73,24 +73,43 @@ Parkinson’s Disease Prediction page
 
 # Future Enhancements
 1. Expanded Disease Coverage
+
 -->Additional Diseases: Add prediction models for diseases like Alzheimer’s, stroke, and cancer.
+
 -->Multi-Disease Prediction: Enable predictions for multiple diseases from a single input, providing a comprehensive risk assessment.
+
 2. AI-Powered Decision Support
+
 -->AI-Driven Recommendations: Provide personalized health recommendations after prediction, including lifestyle changes and medical advice.
+
 -->Healthcare Chatbot: Integrate an AI-powered chatbot for answering user queries and offering follow-up actions.
+
 3. EHR and Wearable Integration
+
 -->EHR Integration: Automatically pull patient data from hospital EHR systems for predictions without manual input.
+
 -->Wearable Integration: Connect with health-tracking devices (smartwatches, etc.) for continuous monitoring and prediction updates.
+
 4. Mobile Application
+
 -->Cross-Platform App: Develop a mobile version to increase accessibility, especially for remote areas.
+
 -->Offline Mode: Allow predictions without internet access for regions with limited connectivity.
+
 5. Real-Time Disease Surveillance
+
 -->Population Monitoring: Aggregate anonymized data to track disease trends and detect outbreaks at the population level.
+
 -->Geographical Mapping: Implement maps showing disease hotspots, helping users and public health authorities monitor risks.
+
 6. Multi-Language Support
+
 -->Localization: Add support for multiple languages to make the app usable in non-English-speaking regions.
+
 7. Alerts and Reporting
+
 -->Real-Time Alerts: Implement an alert system for high-risk predictions, notifying doctors or emergency contacts.
+
 -->Customizable Reports: Allow users to generate detailed, exportable prediction reports with medical insights.
 
 
