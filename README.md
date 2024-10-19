@@ -1,4 +1,4 @@
-Overview
+# Overview
 
 This project focuses on predicting multiple diseases such as Heart Disease, Diabetes, and Parkinson’s Disease using Machine Learning algorithms. The main goal is to provide a fast, accessible, and accurate diagnostic tool that can assist healthcare professionals and public health authorities in identifying diseases early and monitoring at-risk populations.
 
